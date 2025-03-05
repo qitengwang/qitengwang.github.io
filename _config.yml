@@ -23,13 +23,13 @@ repository               : "qitengwang/qitengwang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Qiteng Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postgraduate student of Economics"
+  location         : "Nanjing"
+  employer         : "Nanjing University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "qitengwang@foxmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
